@@ -1,0 +1,14 @@
+C:\Users\atharva.thakkar\source\repos\EventManagementSystem\bin\Debug\EventManagementSystem.exe.config
+C:\Users\atharva.thakkar\source\repos\EventManagementSystem\bin\Debug\EventManagementSystem.exe
+C:\Users\atharva.thakkar\source\repos\EventManagementSystem\bin\Debug\EventManagementSystem.pdb
+C:\Users\atharva.thakkar\source\repos\EventManagementSystem\obj\Debug\EventManagementSystem.csproj.AssemblyReference.cache
+C:\Users\atharva.thakkar\source\repos\EventManagementSystem\obj\Debug\EventManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\atharva.thakkar\source\repos\EventManagementSystem\obj\Debug\EventManagementSystem.exe
+C:\Users\atharva.thakkar\source\repos\EventManagementSystem\obj\Debug\EventManagementSystem.pdb
+C:\Users\Atharva\Desktop\Aress\Training\Assignment\C#\EventManagementSystem\bin\Debug\EventManagementSystem.exe.config
+C:\Users\Atharva\Desktop\Aress\Training\Assignment\C#\EventManagementSystem\bin\Debug\EventManagementSystem.exe
+C:\Users\Atharva\Desktop\Aress\Training\Assignment\C#\EventManagementSystem\bin\Debug\EventManagementSystem.pdb
+C:\Users\Atharva\Desktop\Aress\Training\Assignment\C#\EventManagementSystem\obj\Debug\EventManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Atharva\Desktop\Aress\Training\Assignment\C#\EventManagementSystem\obj\Debug\EventManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Atharva\Desktop\Aress\Training\Assignment\C#\EventManagementSystem\obj\Debug\EventManagementSystem.exe
+C:\Users\Atharva\Desktop\Aress\Training\Assignment\C#\EventManagementSystem\obj\Debug\EventManagementSystem.pdb
